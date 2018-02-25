@@ -1,0 +1,48 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspReactBasic.Server", "AspReactBasic.Server\AspReactBasic.Server.csproj", "{FFC7447C-52A7-440F-93F9-C348F1EE8845}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspReactBasic.Services", "AspReactBasic.Services\AspReactBasic.Services.csproj", "{CF4B1201-1B08-49D9-969D-C815A5FA1374}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFC7447C-52A7-440F-93F9-C348F1EE8845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC7447C-52A7-440F-93F9-C348F1EE8845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC7447C-52A7-440F-93F9-C348F1EE8845}.Debug|x64.ActiveCfg = Debug|x64
+		{FFC7447C-52A7-440F-93F9-C348F1EE8845}.Debug|x64.Build.0 = Debug|x64
+		{FFC7447C-52A7-440F-93F9-C348F1EE8845}.Debug|x86.ActiveCfg = Debug|x86
+		{FFC7447C-52A7-440F-93F9-C348F1EE8845}.Debug|x86.Build.0 = Debug|x86
+		{FFC7447C-52A7-440F-93F9-C348F1EE8845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC7447C-52A7-440F-93F9-C348F1EE8845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFC7447C-52A7-440F-93F9-C348F1EE8845}.Release|x64.ActiveCfg = Release|x64
+		{FFC7447C-52A7-440F-93F9-C348F1EE8845}.Release|x64.Build.0 = Release|x64
+		{FFC7447C-52A7-440F-93F9-C348F1EE8845}.Release|x86.ActiveCfg = Release|x86
+		{FFC7447C-52A7-440F-93F9-C348F1EE8845}.Release|x86.Build.0 = Release|x86
+		{CF4B1201-1B08-49D9-969D-C815A5FA1374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF4B1201-1B08-49D9-969D-C815A5FA1374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF4B1201-1B08-49D9-969D-C815A5FA1374}.Debug|x64.ActiveCfg = Debug|x64
+		{CF4B1201-1B08-49D9-969D-C815A5FA1374}.Debug|x64.Build.0 = Debug|x64
+		{CF4B1201-1B08-49D9-969D-C815A5FA1374}.Debug|x86.ActiveCfg = Debug|x86
+		{CF4B1201-1B08-49D9-969D-C815A5FA1374}.Debug|x86.Build.0 = Debug|x86
+		{CF4B1201-1B08-49D9-969D-C815A5FA1374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF4B1201-1B08-49D9-969D-C815A5FA1374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF4B1201-1B08-49D9-969D-C815A5FA1374}.Release|x64.ActiveCfg = Release|x64
+		{CF4B1201-1B08-49D9-969D-C815A5FA1374}.Release|x64.Build.0 = Release|x64
+		{CF4B1201-1B08-49D9-969D-C815A5FA1374}.Release|x86.ActiveCfg = Release|x86
+		{CF4B1201-1B08-49D9-969D-C815A5FA1374}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
