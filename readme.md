@@ -16,3 +16,6 @@ In root run
 
 Application is hosted by default through http://localhost:5000
 
+## For more info
+See https://docs.microsoft.com/en-us/aspnet/core/spa/react-with-redux
+
